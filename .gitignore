@@ -4,7 +4,8 @@
 
 # Session Data files
 *.RData
-*.rda
+data/wheat/wheat_climatology.rda
+data/durumwheat/durumwheat_climatology.rda
 
 # RStudio files
 .Rproj.user/
