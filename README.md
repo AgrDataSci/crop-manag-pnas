@@ -13,7 +13,7 @@ Climate adaptation requires farmers to adjust their crop varieties over time and
 Dataverse
 ---------
 
-A citable mirror of this repository is deposited on [Dataverse](https://doi.org/10.7910/DVN/4ICF6W).
+A citable mirror of this repository is deposited in [Dataverse](https://doi.org/10.7910/DVN/4ICF6W).
 
 Acknowledgments
 ---------------
