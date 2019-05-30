@@ -5,7 +5,6 @@
 # Session Data files
 *.RData
 *.rda
-*.tif
 
 # RStudio files
 .Rproj.user/
