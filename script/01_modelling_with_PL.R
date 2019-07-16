@@ -283,6 +283,10 @@ for(m in seq_along(crop)){
   
   cat("This analysis will use",n,"observations.\n")
   
+  # Check network
+  source("script/helper_01_check_network.R")
+  
+  
   # merge grouped rankings with explanatory variables
   mydata <- cbind(G, covar)
   

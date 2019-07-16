@@ -24,3 +24,4 @@ data/wheat/wheat_climatology.rda
 # check scripts
 /script/check
 
+.Rproj.user
