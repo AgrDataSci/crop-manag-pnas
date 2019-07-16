@@ -1,0 +1,4 @@
+# A tibble: 1 x 2
+  kendallTau N_effective
+       <dbl>       <dbl>
+1      0.969        231.
